@@ -32,11 +32,11 @@ function Home() {
       </div>
       <br />
       <p className='text-sm md:text-md text-jusify'>
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-        Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-        laborum fuga repudiandae? Asperiores tempore eos animi dolores
-        corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-        cum delectus sit voluptatum aut ratione quaerat veniam aperiam!.
+        I am Aditya Mishra, a versatile Developer, Freelancer, and Designer with a strong background 
+        in Computer Science from Mumbai University. I specialize in crafting innovative digital 
+        solutions, blending technical expertise with creative design to develop seamless and user-friendly
+        applications. Whether it's software development, UI/UX design, or freelance projects, I am 
+        committed to delivering high-quality results that combine functionality with aesthetics
         </p>
         <br />
         {/*social media icons*/}
