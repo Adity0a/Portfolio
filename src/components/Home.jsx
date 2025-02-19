@@ -1,10 +1,9 @@
-
 import React from "react";
 
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
-import { IoLogoYoutube } from "react-icons/io";
-import { FaTelegram } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
 
 import { SiMongodb } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
@@ -36,14 +35,7 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              I am Aditya Mishra, a versatile Developer, Freelancer,
-              and Designer with a strong background in Computer Science 
-              from Mumbai University. I specialize in crafting innovative 
-              digital solutions, blending technical expertise with creative
-              design to develop seamless and user-friendly applications. 
-              Whether it's software development, UI/UX design, or freelance
-              projects, I am committed to delivering high-quality results that 
-              combine functionality with aesthetics.
+              I am Aditya Mishra, a versatile Developer, Freelancer, and Designer with a strong background in Computer Science from Mumbai University. I specialize in crafting innovative digital solutions, blending technical expertise with creative design to develop seamless and user-friendly applications. Whether it's software development, UI/UX design, or freelance projects, I am committed to delivering high-quality results that combine functionality with aesthetics.
             </p>
             <br />
             {/* social media icons */}
@@ -77,8 +69,8 @@ function Home() {
                 <h1 className="font-bold text-center">Currently working on</h1>
                 <div className="flex space-x-5">
                   <SiMongodb className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
-                  <SiExpress className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
-                  <FaReact className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
+                   <FaReact className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer' />
+                <SiExpress className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer' />
                   <FaNodeJs className="text-2xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer" />
                 </div>
               </div>
