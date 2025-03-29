@@ -18,9 +18,7 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Bachelor of Information Technology, Mumbai University, 2020-2023
         </span>
         <br />
         <br />
@@ -28,8 +26,8 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in React js, python, Tailwind CSS Experienced with Software
+          Tools/Technologies Strong grasp of Design Principles/Concepts
           Excellent problem-solving skills Effective communicator and
           collaborator
         </span>
@@ -39,11 +37,32 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+         Freelance AI Prompt Engineer & SEO Blog Writer
+AdityaVisionAI | Fiverr | 2022 – Present
+
+Developed custom AI prompts for clients, optimizing content creation and automation.
+
+Provided SEO-optimized blog writing services, improving search rankings and engagement.
+
+Maintained a 5-star rating on Fiverr, delivering high-quality projects and fostering strong client relationships.
+
+Freelance Full-Stack Developer
+Independent Contracts | 2021 – Present
+
+Built responsive web applications using React.js, Tailwind CSS, JavaScript, and Python for startups and businesses.
+
+Designed and implemented custom APIs and backend solutions, improving scalability and performance.
+
+Collaborated with clients to optimize UI/UX design and ensure seamless user experiences.
+
+Software Developer Intern
+Ace360 | Oct 2023
+
+Assisted in front-end development using React.js and Tailwind CSS, enhancing website performance.
+
+Contributed to backend API integration with Python and Node.js, improving data management.
+
+Conducted testing and debugging to ensure software reliability and efficiency.
         </span>
         <br />
         <br />
@@ -51,8 +70,13 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          Top-Rated Seller, Fiverr, 2024 – Recognized for maintaining high-quality service, excellent client feedback, and consistent project deliveries.
+
+Best AI Content Creator, Be10x, 2023  – Awarded for exceptional AI-driven content generation and prompt engineering.
+
+100+ Successful Projects Completed, Fiverr, 2023 – Delivered AI prompt engineering and SEO blog writing services with a 5-star rating.
+
+Certified React Developer, freecodecamp, 2022 – Earned certification for expertise in React.js and front-end development.
         </span>
         <br />
         <br />
